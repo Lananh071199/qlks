@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qlks", "qlks.csproj", "{B3393F98-286B-481B-8DB2-89EB23A2E6C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3393F98-286B-481B-8DB2-89EB23A2E6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3393F98-286B-481B-8DB2-89EB23A2E6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3393F98-286B-481B-8DB2-89EB23A2E6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3393F98-286B-481B-8DB2-89EB23A2E6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8680FAE3-BC95-4F35-A136-DF5C521385E5}
+	EndGlobalSection
+EndGlobal
